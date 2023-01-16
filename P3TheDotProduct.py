@@ -1,4 +1,3 @@
-
 import numpy as np
 
 
@@ -13,7 +12,7 @@ biases = [2,3,0.5]
 # shape WE wil do DOT Product 
 
 output = np.dot(weights, inputs) + biases
-print(output)
+print(output) 
 
 
 
